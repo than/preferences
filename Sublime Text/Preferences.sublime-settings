@@ -1,19 +1,19 @@
 {
-	"color_scheme": "Packages/Specials Board/Special Boards - Special Edition.tmtheme",
-	"font_face": "Source Code Pro",
-	"font_size": 12,
-	"line_padding_bottom": 1,
-	"line_padding_top": 1,
-
-	"bold_folder_labels": true,
-	"caret_style": "phase",
-	"highlight_modified_tabs": true,
-	"save_on_focus_lost": true,
-
-	"ignored_packages":
-	[
-		"Vintage",
-		"Dayle Rees Color Schemes",
-		"SideBarEnhancements"
-	]
+  "bold_folder_labels": true,
+  "caret_style": "phase",
+  "color_scheme": "Packages/Specials Board/Special Boards - Special Edition.tmtheme",
+  "font_face": "Source Code Pro",
+  "font_size": 12,
+  "highlight_modified_tabs": true,
+  "ignored_packages":
+  [
+    "Vintage",
+    "Dayle Rees Color Schemes",
+    "SideBarEnhancements",
+    "GitGutter",
+    "LESS"
+  ],
+  "line_padding_bottom": 1,
+  "line_padding_top": 1,
+  "save_on_focus_lost": true
 }
