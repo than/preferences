@@ -19,4 +19,4 @@ I split time between [Coda](https://panic.com/coda/) and [Sublime Text 3](http:/
 
 I enjoy previewing text files and Markdown documents in [Marked](https://itunes.apple.com/us/app/marked/id448925439?mt=12&at=10lbaT) with the built-in *Amblin* theme.
 
-Of course, I would be remiss if I did not point out that both of these fine applications are developed by [Brett Terpstra]().
+Of course, I would be remiss if I did not point out that both of these fine applications are developed by [Brett Terpstra](http://brettterpstra.com).
