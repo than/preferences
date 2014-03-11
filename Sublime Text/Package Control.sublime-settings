@@ -1,11 +1,18 @@
 {
-  "installed_packages":
-  [
-    "Dayle Rees Color Schemes",
-    "Emmet",
-    "GitGutter",
-    "LESS",
-    "Package Control",
-    "SublimeCodeIntel"
-  ]
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Dayle Rees Color Schemes",
+		"Emmet",
+		"ExpressionEngine",
+		"GitGutter",
+		"JSHint",
+		"JSHint Gutter",
+		"LESS",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"sublimelint",
+		"SublimeLinter",
+		"SublimeLinter-php"
+	]
 }
