@@ -7,7 +7,7 @@ A list of personal computing preferences.
 
 ## Typography
 
-I enjoy [Source Code Pro](https://sourceforge.net/projects/sourcecodepro.adobe/) in my coding environments. [Fira Sans](http://www.mozilla.org/en-US/styleguide/products/firefox-os/typeface/) plays well with my notes in nvALT.
+I enjoy [Source Code Pro](http://adobe-fonts.github.io/source-code-pro/) in my coding environments. [Fira Sans](http://www.mozilla.org/en-US/styleguide/products/firefox-os/typeface/) plays well with my notes in nvALT.
 
 ## Apps
 
@@ -33,7 +33,7 @@ Give me Tweetbot or give me death. I use both [Tweetbot for Mac](https://itunes.
 
 ### Music
 
-[Rdioí¾¶ [Rdio](http://than.mn/rdio) is my streaming service of choice.
+[Rdioï¿½ï¿½ï¿½ [Rdio](http://than.mn/rdio) is my streaming service of choice.
 
 ### Podcasts
 
