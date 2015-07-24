@@ -33,7 +33,7 @@ Give me Tweetbot or give me death. I use both [Tweetbot for Mac](https://itunes.
 
 ### Music
 
-[Rdio��� [Rdio](http://than.mn/rdio) is my streaming service of choice.
+[Rdio](http://than.mn/rdio) is my streaming service of choice.
 
 ### Podcasts
 
