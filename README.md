@@ -37,7 +37,7 @@ Give me Tweetbot or give me death. I use both [Tweetbot for Mac](https://itunes.
 
 ### Podcasts
 
-For now, I've hitched my wagon to Instacast. Both desktop and mobile apps do a reasonable job keeping each other in sync. [Instacast for Mac](http://itunes.apple.com/us/app/instacast/id733258666?mt=12&uo=4&at=10lbaT) and [Instacast 4 (iOS)](https://itunes.apple.com/us/app/instacast-4-podcast-client/id577056377?mt=8&at=10lbaT).
+For now, I've hitched my wagon to Overcast. (RIP Instacast.) There's no Mac app yet, but [Overcast for iOS](https://itunes.apple.com/us/app/overcast-podcast-player/id888422857?mt=8&at=10lbaT) pairs wonderfully with a [Fluid-wrapped instance of the web player](http://than.land/overcast-for-mac).
 
 ## Data Security
 
