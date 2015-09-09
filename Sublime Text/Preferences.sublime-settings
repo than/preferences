@@ -1,24 +1,27 @@
 {
+	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
-	"caret_style": "phase",
-	"color_scheme": "Packages/User/SublimeLinter/Flatland Dark (SL).tmTheme",
-	"flatland_sidebar_tree_medium": true,
-	"flatland_square_tabs": true,
+	"color_scheme": "Packages/Colorsublime - Themes/Facebook.tmTheme",
 	"font_face": "Source Code Pro",
-	"font_size": 12,
-	"highlight_line": true,
-	"highlight_modified_tabs": true,
+	"font_options":
+	[
+		"gray_antialias"
+	],
+	"font_size": 14,
 	"ignored_packages":
 	[
-		"Dayle Rees Color Schemes",
 		"Vintage"
 	],
-	"line_padding_bottom": 3,
-	"line_padding_top": 3,
-	"save_on_focus_lost": true,
-	"scroll_past_end": true,
-	"tab_size": 2,
-	"theme": "Flatland Dark.sublime-theme",
-	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_numbers": true,
+	"line_padding_bottom": 5,
+	"line_padding_top": 5,
+	"overlay_scroll_bars": "enabled",
+	"theme": "Material-Theme.sublime-theme",
+	"use_simple_full_screen": true,
+	"translate_tabs_to_spaces": false
 }
