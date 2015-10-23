@@ -1,7 +1,7 @@
 {
-	"always_show_minimap_viewport": true,
+	"always_show_minimap_viewport": false,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Colorsublime - Themes/Facebook.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Facebook (SL).tmTheme",
 	"font_face": "Source Code Pro",
 	"font_options":
 	[
@@ -18,10 +18,12 @@
 		"draw_active"
 	],
 	"line_numbers": true,
-	"line_padding_bottom": 5,
-	"line_padding_top": 5,
+	"line_padding_bottom": 4,
+	"line_padding_top": 4,
 	"overlay_scroll_bars": "enabled",
-	"theme": "Material-Theme.sublime-theme",
+	"theme": "Spacegray.sublime-theme",
+	"translate_tabs_to_spaces": false,
+	"trim_trailing_white_space_on_save": true,
 	"use_simple_full_screen": true,
-	"translate_tabs_to_spaces": false
+	"word_wrap": true
 }
