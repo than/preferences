@@ -1,18 +1,22 @@
 {
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
-		"BracketHighlighter",
-		"Dayle Rees Color Schemes",
+		"AdvancedNewFile",
+		"Colorsublime",
+		"EditorConfig",
 		"Emmet",
-		"ExpressionEngine",
 		"GitGutter",
-		"JSHint",
-		"JSHint Gutter",
-		"LESS",
+		"Material Theme",
+		"Package Control",
+		"PackageResourceViewer",
+		"SCSS",
 		"SideBarEnhancements",
-		"SublimeCodeIntel",
-		"sublimelint",
 		"SublimeLinter",
-		"SublimeLinter-php"
+		"Syntax Highlighting for Sass",
+		"Theme - Spacegray"
 	]
 }
